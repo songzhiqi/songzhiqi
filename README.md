@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @songzhiqi
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning py.
-- 💞️ I’m looking to collaborate on geek.
+- 💞️ I’m looking to collaborate on github.
 - 📫 How to reach me :bilibili:宇宙小章鱼
 
 <!---
